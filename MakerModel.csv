@@ -1,0 +1,321 @@
+﻿func_no,func_desc,vessel_code,vessel_name,maker,model
+581.022.0010,FW UV sterilizer,BOB,BW Bobcat,Samkun Century Co Ltd,JSA1000
+702.310.0010,HFO purifier 1,BOB,BW Bobcat,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+702.310.0020,HFO purifier 2,BOB,BW Bobcat,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+712.310.0010,ME LO purifier 1,BOB,BW Bobcat,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+712.310.0020,ME LO purifier 2,BOB,BW Bobcat,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+581.022.0010,FW UV sterilizer,CHT,BW Cheetah,Samkun Century Co Ltd,JSA1000
+702.310.0010,HFO purifier 1,CHT,BW Cheetah,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+702.310.0020,HFO purifier 2,CHT,BW Cheetah,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+712.310.0010,ME LO purifier 1,CHT,BW Cheetah,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+712.310.0020,ME LO purifier 2,CHT,BW Cheetah,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+581.022.0010,FW UV sterilizer,CGR,Hafnia Cougar,Samkun Century Co Ltd,JSA1000
+702.310.0010,HFO purifier 1,CGR,Hafnia Cougar,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+702.310.0020,HFO purifier 2,CGR,Hafnia Cougar,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+712.310.0010,ME LO purifier 1,CGR,Hafnia Cougar,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+712.310.0020,ME LO purifier 2,CGR,Hafnia Cougar,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+702.310.0010,HFO purifier 1,DEA,Hafnia Despina,[MKR]ALFA LAVAL,S 946
+702.310.0020,HFO purifier 2,DEA,Hafnia Despina,[MKR]ALFA LAVAL,S 946
+712.310.0010,ME LO purifier 1,DEA,Hafnia Despina,[MKR]ALFA LAVAL,P 615
+712.310.0020,ME LO purifier 2,DEA,Hafnia Despina,[MKR]ALFA LAVAL,P 615
+712.320.0010,AE LO purifier,DEA,Hafnia Despina,[MKR]ALFA LAVAL,P 605
+581.022.0010,FW UV sterilizer,EAG,Hafnia Eagle,Samkun Century Co Ltd,JSA1000
+702.310.0010,HFO purifier 1,EAG,Hafnia Eagle,[MKR]GEA Westfalia Separator Group GmbH,OSE 20-0136-067/18
+702.310.0020,HFO purifier 2,EAG,Hafnia Eagle,[MKR]GEA Westfalia Separator Group GmbH,OSE 20-0136-067/18
+712.310.0010,ME LO purifier 1,EAG,Hafnia Eagle,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+712.310.0020,ME LO purifier 2,EAG,Hafnia Eagle,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+801.022.0010,BWTS UV reactor,EAG,Hafnia Eagle,[MKR]ALFA LAVAL TUMBA AB,
+581.022.0010,FW UV sterilizer,EGT,BW Egret,Samkun Century Co Ltd,JSA1000
+702.310.0010,HFO purifier 1,EGT,BW Egret,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+702.310.0020,HFO purifier 2,EGT,BW Egret,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+712.310.0010,ME LO purifier 1,EGT,BW Egret,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+712.310.0020,ME LO purifier 2,EGT,BW Egret,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+801.022.0010,BWTS UV reactor,EGT,BW Egret,[MKR]ALFA LAVAL TUMBA AB,
+581.022.0010,FW UV sterilizer,FCN,BW Falcon,Samkun Century Co Ltd,JSA1000
+702.310.0010,HFO purifier 1,FCN,BW Falcon,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+702.310.0020,HFO purifier 2,FCN,BW Falcon,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+712.310.0010,ME LO purifier 1,FCN,BW Falcon,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+712.310.0020,ME LO purifier 2,FCN,BW Falcon,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+801.022.0010,BWTS UV reactor,FCN,BW Falcon,[MKR]ALFA LAVAL TUMBA AB,
+581.022.0010,FW UV sterilizer,GLT,Hafnia Galatea,[MKR]SAMKUN CENTURY CO LTD,JSB-1
+702.310.0010,HFO purifier 1,GLT,Hafnia Galatea,[MKR]ALFA LAVAL,S 946
+702.310.0020,HFO purifier 2,GLT,Hafnia Galatea,[MKR]ALFA LAVAL,S 946
+712.310.0010,ME LO purifier 1,GLT,Hafnia Galatea,[MKR]ALFA LAVAL,P 615
+712.310.0020,ME LO purifier 2,GLT,Hafnia Galatea,[MKR]ALFA LAVAL,P 615
+712.320.0010,AE LO purifier,GLT,Hafnia Galatea,[MKR]ALFA LAVAL,P 605
+581.022.0010,FW UV sterilizer,HWK,BW Hawk,Samkun Century Co Ltd,JSA1000
+702.310.0010,HFO purifier 1,HWK,BW Hawk,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+702.310.0020,HFO purifier 2,HWK,BW Hawk,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+712.310.0010,ME LO purifier 1,HWK,BW Hawk,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+712.310.0020,ME LO purifier 2,HWK,BW Hawk,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+801.022.0010,BWTS UV reactor,HWK,BW Hawk,[MKR]ALFA LAVAL TUMBA AB,
+581.022.0010,FW UV sterilizer,JAG,BW Jaguar,Samkun Century Co Ltd,JSA1000
+702.310.0010,HFO purifier 1,JAG,BW Jaguar,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+702.310.0020,HFO purifier 2,JAG,BW Jaguar,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+712.310.0010,ME LO purifier 1,JAG,BW Jaguar,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+712.310.0020,ME LO purifier 2,JAG,BW Jaguar,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+581.022.0010,FW UV sterilizer,KAG,Hafnia Kallang,Samkun Century Co Ltd,JSB-1
+702.310.0010,HFO purifier 1,KAG,Hafnia Kallang,[MKR]ALFA LAVAL,S 947
+702.310.0020,HFO purifier 2,KAG,Hafnia Kallang,[MKR]ALFA LAVAL,S 947
+712.310.0010,ME LO purifier 1,KAG,Hafnia Kallang,[MKR]ALFA LAVAL,P 615
+712.310.0020,ME LO purifier 2,KAG,Hafnia Kallang,[MKR]ALFA LAVAL,P 615
+712.320.0010,AE LO purifier,KAG,Hafnia Kallang,[MKR]ALFA LAVAL,P 605
+581.022.0010,FW UV sterilizer,KTR,BW Kestrel,Samkun Century Co Ltd,JSA1000
+702.310.0010,HFO purifier 1,KTR,BW Kestrel,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+702.310.0020,HFO purifier 2,KTR,BW Kestrel,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+712.310.0010,ME LO purifier 1,KTR,BW Kestrel,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+712.310.0020,ME LO purifier 2,KTR,BW Kestrel,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+801.022.0010,BWTS UV reactor,KTR,BW Kestrel,[MKR]ALFA LAVAL TUMBA AB,
+581.022.0010,FW UV sterilizer,LAA,Hafnia Larissa,[MKR]SAMKUN CENTURY CO LTD,JSB-1
+702.310.0010,HFO purifier 1,LAA,Hafnia Larissa,[MKR]ALFA LAVAL,S 946
+702.310.0020,HFO purifier 2,LAA,Hafnia Larissa,[MKR]ALFA LAVAL,S 946
+712.310.0010,ME LO purifier 1,LAA,Hafnia Larissa,[MKR]ALFA LAVAL,P 615
+712.310.0020,ME LO purifier 2,LAA,Hafnia Larissa,[MKR]ALFA LAVAL,P 615
+712.320.0010,AE LO purifier,LAA,Hafnia Larissa,[MKR]ALFA LAVAL,P 605
+581.022.0010,FW UV sterilizer,LPD,Hafnia Leopard,Samkun Century Co Ltd,JSA1000
+702.310.0010,HFO purifier 1,LPD,Hafnia Leopard,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+702.310.0020,HFO purifier 2,LPD,Hafnia Leopard,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+712.310.0010,ME LO purifier 1,LPD,Hafnia Leopard,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+712.310.0020,ME LO purifier 2,LPD,Hafnia Leopard,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+801.022.0010,BWTS UV reactor,LPD,Hafnia Leopard,[MKR]ALFA LAVAL TUMBA AB,
+581.022.0010,FW UV sterilizer,LIO,Hafnia Lioness,Samkun Century Co Ltd,JSA1000
+702.310.0010,HFO purifier 1,LIO,Hafnia Lioness,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+702.310.0020,HFO purifier 2,LIO,Hafnia Lioness,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+712.310.0010,ME LO purifier 1,LIO,Hafnia Lioness,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+712.310.0020,ME LO purifier 2,LIO,Hafnia Lioness,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+581.022.0010,FW UV sterilizer,LNX,Hafnia Lynx,Samkun Century Co Ltd,JSA1000
+702.310.0010,HFO purifier 1,LNX,Hafnia Lynx,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+702.310.0020,HFO purifier 2,LNX,Hafnia Lynx,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+712.310.0010,ME LO purifier 1,LNX,Hafnia Lynx,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+712.310.0020,ME LO purifier 2,LNX,Hafnia Lynx,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+801.022.0010,BWTS UV reactor,LNX,Hafnia Lynx,[MKR]ALFA LAVAL TUMBA AB,
+581.022.0010,FW UV sterilizer,MLN,BW Merlin,Samkun Century Co Ltd,JSA1000
+702.310.0020,HFO purifier 2,MLN,BW Merlin,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+712.310.0010,ME LO purifier 1,MLN,BW Merlin,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+712.310.0020,ME LO purifier 2,MLN,BW Merlin,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+801.022.0010,BWTS UV reactor,MLN,BW Merlin,[MKR]ALFA LAVAL TUMBA AB,
+581.022.0010,FW UV sterilizer,MYN,Hafnia Myna,Samkun Century Co Ltd,JSA1000
+702.310.0010,HFO purifier 1,MYN,Hafnia Myna,[MKR]GEA Westfalia Separator Group GmbH,OSE 20-0136-067/18
+702.310.0020,HFO purifier 2,MYN,Hafnia Myna,[MKR]GEA Westfalia Separator Group GmbH,OSE 20-0136-067/18
+712.310.0010,ME LO purifier 1,MYN,Hafnia Myna,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+712.310.0020,ME LO purifier 2,MYN,Hafnia Myna,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+801.022.0010,BWTS UV reactor,MYN,Hafnia Myna,[MKR]ALFA LAVAL TUMBA AB,
+581.022.0010,FW UV sterilizer,NEO,BW Neso,[MKR]SAMKUN CENTURY CO LTD,JSB-1
+702.310.0010,HFO purifier 1,NEO,BW Neso,[MKR]ALFA LAVAL,S 946
+702.310.0020,HFO purifier 2,NEO,BW Neso,[MKR]ALFA LAVAL,S 946
+712.310.0010,ME LO purifier 1,NEO,BW Neso,[MKR]ALFA LAVAL,P 615
+712.310.0020,ME LO purifier 2,NEO,BW Neso,[MKR]ALFA LAVAL,P 615
+712.320.0010,AE LO purifier,NEO,BW Neso,[MKR]ALFA LAVAL,P 605
+581.022.0010,FW UV sterilizer,NIL,Hafnia Nile,Samkun Century Co Ltd,JSB-1
+702.310.0010,HFO purifier 1,NIL,Hafnia Nile,[MKR]ALFA LAVAL,S 947
+702.310.0020,HFO purifier 2,NIL,Hafnia Nile,[MKR]ALFA LAVAL,S 947
+712.310.0010,ME LO purifier 1,NIL,Hafnia Nile,[MKR]ALFA LAVAL,P 615
+712.310.0020,ME LO purifier 2,NIL,Hafnia Nile,[MKR]ALFA LAVAL,P 615
+712.320.0010,AE LO purifier,NIL,Hafnia Nile,[MKR]ALFA LAVAL,P 605
+581.022.0010,FW UV sterilizer,OPY,BW Osprey,Samkun Century Co Ltd,JSA1000
+702.310.0010,HFO purifier 1,OPY,BW Osprey,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+702.310.0020,HFO purifier 2,OPY,BW Osprey,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+712.310.0010,ME LO purifier 1,OPY,BW Osprey,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+712.310.0020,ME LO purifier 2,OPY,BW Osprey,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+801.022.0010,BWTS UV reactor,OPY,BW Osprey,[MKR]ALFA LAVAL TUMBA AB,
+581.022.0010,FW UV sterilizer,PTH,Hafnia Panther,Samkun Century Co Ltd,JSA1000
+702.310.0010,HFO purifier 1,PTH,Hafnia Panther,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+702.310.0020,HFO purifier 2,PTH,Hafnia Panther,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+712.310.0010,ME LO purifier 1,PTH,Hafnia Panther,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+712.310.0020,ME LO purifier 2,PTH,Hafnia Panther,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+581.022.0010,FW UV sterilizer,PTL,Hafnia Petrel,Samkun Century Co Ltd,JSA1000
+702.310.0010,HFO purifier 1,PTL,Hafnia Petrel,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+702.310.0020,HFO purifier 2,PTL,Hafnia Petrel,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+712.310.0010,ME LO purifier 1,PTL,Hafnia Petrel,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+712.310.0020,ME LO purifier 2,PTL,Hafnia Petrel,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+581.022.0010,FW UV sterilizer,PUM,Hafnia Puma,Samkun Century Co Ltd,JSA1000
+702.310.0010,HFO purifier 1,PUM,Hafnia Puma,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+702.310.0020,HFO purifier 2,PUM,Hafnia Puma,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+712.310.0010,ME LO purifier 1,PUM,Hafnia Puma,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+712.310.0020,ME LO purifier 2,PUM,Hafnia Puma,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+801.022.0010,BWTS UV reactor,PUM,Hafnia Puma,[MKR]ALFA LAVAL TUMBA AB,
+581.022.0010,FW UV sterilizer,RAV,Hafnia Raven,Samkun Century Co Ltd,JSA1000
+702.310.0010,HFO purifier 1,RAV,Hafnia Raven,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+702.310.0020,HFO purifier 2,RAV,Hafnia Raven,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+712.310.0010,ME LO purifier 1,RAV,Hafnia Raven,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+712.310.0020,ME LO purifier 2,RAV,Hafnia Raven,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+801.022.0010,BWTS UV reactor,RAV,Hafnia Raven,[MKR]ALFA LAVAL TUMBA AB,
+581.022.0010,FW UV sterilizer,SEI,Hafnia Seine,[MKR]JOWA (Shanghai) Marine Equipment Co,UV1
+702.310.0010,HFO purifier 1,SEI,Hafnia Seine,Westfalia Separator As,OSD 35-0136-067/25
+702.310.0020,HFO purifier 2,SEI,Hafnia Seine,Westfalia Separator As,OSD 35-0136-067/25
+712.310.0010,LO purifier 1,SEI,Hafnia Seine,Westfalia Separator As,OSD 18-0196-067/8
+712.310.0020,LO purifier 2,SEI,Hafnia Seine,Westfalia Separator As,OSD 18-0196-067/8
+801.022.0010,BWTS UV reactor 1,SEI,Hafnia Seine,[MKR]ALFA LAVAL TUMBA AB,
+801.022.0020,BWTS UV reactor 2,SEI,Hafnia Seine,[MKR]ALFA LAVAL TUMBA AB,
+581.022.0010,FW UV sterilizer,SNO,Hafnia Shinano,[MKR]JOWA (Shanghai) Marine Equipment Co,UV1
+702.310.0010,HFO purifier 1,SNO,Hafnia Shinano,Westfalia Separator As,OSD 35-0136-067/25
+702.310.0020,HFO purifier 2,SNO,Hafnia Shinano,Westfalia Separator As,OSD 35-0136-067/25
+712.310.0010,LO purifier 1,SNO,Hafnia Shinano,Westfalia Separator As,OSD 18-0196-067/8
+712.310.0020,LO purifier 2,SNO,Hafnia Shinano,Westfalia Separator As,OSD 18-0196-067/8
+581.022.0010,FW UV sterilizer,SWF,Hafnia Swift,Samkun Century Co Ltd,JSA1000
+702.310.0010,HFO purifier 1,SWF,Hafnia Swift,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+702.310.0020,HFO purifier 2,SWF,Hafnia Swift,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+712.310.0010,ME LO purifier 1,SWF,Hafnia Swift,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+712.310.0020,ME LO purifier 2,SWF,Hafnia Swift,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+581.022.0010,FW UV sterilizer,TAG,Hafnia Tagus,Samkun Century Co Ltd,JSB-1
+702.310.0010,HFO purifier 1,TAG,Hafnia Tagus,[MKR]ALFA LAVAL,S 947
+702.310.0020,HFO purifier 2,TAG,Hafnia Tagus,[MKR]ALFA LAVAL,S 947
+712.310.0010,ME LO purifier 1,TAG,Hafnia Tagus,[MKR]ALFA LAVAL,P 615
+712.310.0020,ME LO purifier 2,TAG,Hafnia Tagus,[MKR]ALFA LAVAL,P 615
+712.320.0010,AE LO purifier,TAG,Hafnia Tagus,[MKR]ALFA LAVAL,P 605
+581.022.0010,FW UV sterilizer,THA,BW Thalassa,[MKR]SAMKUN CENTURY CO LTD,JSB-1
+702.310.0010,HFO purifier 1,THA,BW Thalassa,[MKR]ALFA LAVAL,S 946
+702.310.0020,HFO purifier 2,THA,BW Thalassa,[MKR]ALFA LAVAL,S 946
+712.310.0010,ME LO purifier 1,THA,BW Thalassa,[MKR]ALFA LAVAL,P 615
+712.310.0020,ME LO purifier 2,THA,BW Thalassa,[MKR]ALFA LAVAL,P 615
+712.320.0010,AE LO purifier,THA,BW Thalassa,[MKR]ALFA LAVAL,P 605
+581.022.0010,FW UV sterilizer,TMS,Hafnia Thames,[MKR]JOWA (Shanghai) Marine Equipment Co,UV1
+702.310.0010,HFO purifier 1,TMS,Hafnia Thames,Westfalia Separator As,OSD 35-0136-067/25
+702.310.0020,HFO purifier 2,TMS,Hafnia Thames,Westfalia Separator As,OSD 35-0136-067/25
+712.310.0010,LO purifier 1,TMS,Hafnia Thames,Westfalia Separator As,OSD 18-0196-067/8
+712.310.0020,LO purifier 2,TMS,Hafnia Thames,Westfalia Separator As,OSD 18-0196-067/8
+801.022.0010,BWTS UV reactor 1,TMS,Hafnia Thames,[MKR]ALFA LAVAL TUMBA AB,
+801.022.0020,BWTS UV reactor 2,TMS,Hafnia Thames,[MKR]ALFA LAVAL TUMBA AB,
+581.022.0010,FW UV sterilizer,TGR,BW Tiger,Samkun Century Co Ltd,JSA1000
+702.310.0010,HFO purifier 1,TGR,BW Tiger,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+702.310.0020,HFO purifier 2,TGR,BW Tiger,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+712.310.0010,ME LO purifier 1,TGR,BW Tiger,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+712.310.0020,ME LO purifier 2,TGR,BW Tiger,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+581.022.0010,FW UV sterilizer,TRN,Hafnia Triton,[MKR]SAMKUN CENTURY CO LTD,JSB-1
+702.310.0010,HFO purifier 1,TRN,Hafnia Triton,[MKR]ALFA LAVAL,S 946
+702.310.0020,HFO purifier 2,TRN,Hafnia Triton,[MKR]ALFA LAVAL,S 946
+712.310.0010,ME LO purifier 1,TRN,Hafnia Triton,[MKR]ALFA LAVAL,P 615
+712.310.0020,ME LO purifier 2,TRN,Hafnia Triton,[MKR]ALFA LAVAL,P 615
+712.320.0010,AE LO purifier,TRN,Hafnia Triton,[MKR]ALFA LAVAL,P 605
+581.022.0010,FW UV sterilizer,REN,BW Wren,Samkun Century Co Ltd,JSA1000
+702.310.0010,HFO purifier 1,REN,BW Wren,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+702.310.0020,HFO purifier 2,REN,BW Wren,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-0136-067
+712.310.0010,ME LO purifier 1,REN,BW Wren,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+712.310.0020,ME LO purifier 2,REN,BW Wren,[MKR]GEA Westfalia Separator Group GmbH,OSE 10-91-067/6
+581.022.0010,FW UV sterilizer,YZE,Hafnia Yangtze,[MKR]JOWA (Shanghai) Marine Equipment Co,UV1
+702.310.0010,HFO purifier 1,YZE,Hafnia Yangtze,Westfalia Separator As,OSD 35-0136-067/25
+702.310.0020,HFO purifier 2,YZE,Hafnia Yangtze,Westfalia Separator As,OSD 35-0136-067/25
+712.310.0010,LO purifier 1,YZE,Hafnia Yangtze,Westfalia Separator As,OSD 18-0196-067/8
+712.310.0020,LO purifier 2,YZE,Hafnia Yangtze,Westfalia Separator As,OSD 18-0196-067/8
+801.022.0010,BWTS UV reactor 1,YZE,Hafnia Yangtze,[MKR]ALFA LAVAL TUMBA AB,
+801.022.0020,BWTS UV reactor 2,YZE,Hafnia Yangtze,[MKR]ALFA LAVAL TUMBA AB,
+581.022.0010,FW UV sterilizer,YAA,Hafnia Yarra,Samkun Century Co Ltd,JSB-1
+702.310.0010,HFO purifier 1,YAA,Hafnia Yarra,[MKR]ALFA LAVAL,S 947
+702.310.0020,HFO purifier 2,YAA,Hafnia Yarra,[MKR]ALFA LAVAL,S 947
+712.310.0010,ME LO purifier 1,YAA,Hafnia Yarra,[MKR]ALFA LAVAL,P 615
+712.310.0020,ME LO purifier 2,YAA,Hafnia Yarra,[MKR]ALFA LAVAL,P 615
+712.320.0010,AE LO purifier,YAA,Hafnia Yarra,[MKR]ALFA LAVAL,P 605
+581.022.0010,FW UV sterilizer,ZAM,Hafnia Zambesi,[MKR]JOWA (Shanghai) Marine Equipment Co,UV1
+702.310.0010,HFO purifier 1,ZAM,Hafnia Zambesi,Westfalia Separator As,OSD 35-0136-067/25
+702.310.0020,HFO purifier 2,ZAM,Hafnia Zambesi,Westfalia Separator As,OSD 35-0136-067/25
+712.310.0010,LO purifier 1,ZAM,Hafnia Zambesi,Westfalia Separator As,OSD 18-0196-067/8
+712.310.0020,LO purifier 2,ZAM,Hafnia Zambesi,Westfalia Separator As,OSD 18-0196-067/8
+801.022.0010,BWTS UV reactor 1,ZAM,Hafnia Zambesi,[MKR]ALFA LAVAL TUMBA AB,
+801.022.0020,BWTS UV reactor 2,ZAM,Hafnia Zambesi,[MKR]ALFA LAVAL TUMBA AB,
+581.022.0010,FW UV sterilizer,ADA,Hafnia Andrea,"[MKR]DAE HEUNG TECH CO., LTD","UV Ray, 5000L/H"
+702.310.0010,HFO purifier 1,ADA,Hafnia Andrea,[MKR]ALFA LAVAL,S 937
+702.310.0020,HFO purifier 2,ADA,Hafnia Andrea,[MKR]ALFA LAVAL,S 937
+712.310.0010,ME LO purifier 1,ADA,Hafnia Andrea,[MKR]ALFA LAVAL,S 815
+712.310.0020,ME LO purifier 2,ADA,Hafnia Andrea,[MKR]ALFA LAVAL,S 815
+581.022.0010,FW UV sterilizer,CTA,Hafnia Caterina,"[MKR]DAE HEUNG TECH CO., LTD","UV Ray, 5000L/H"
+702.310.0010,HFO purifier 1,CTA,Hafnia Caterina,[MKR]ALFA LAVAL,S 937
+702.310.0020,HFO purifier 2,CTA,Hafnia Caterina,[MKR]ALFA LAVAL,S 937
+712.310.0010,ME LO purifier 1,CTA,Hafnia Caterina,[MKR]ALFA LAVAL,S 815
+712.310.0020,ME LO purifier 2,CTA,Hafnia Caterina,[MKR]ALFA LAVAL,S 815
+581.022.0010,FW UV sterilizer,HER,Hafnia Excelsior,Samkun Century Co Ltd,"JSB-3, Ultraviolet Ray"
+702.310.0010,HFO purifier 1,HER,Hafnia Excelsior,Samgong Co Ltd,SJ60HH
+702.310.0020,HFO purifier 2,HER,Hafnia Excelsior,Samgong Co Ltd,SJ60HH
+712.310.0010,ME LO purifier 1,HER,Hafnia Excelsior,Samgong Co Ltd,SJ15H
+712.310.0020,ME LO purifier 2,HER,Hafnia Excelsior,Samgong Co Ltd,SJ15H
+712.320.0010,AE LO purifier,HER,Hafnia Excelsior,Samgong Co Ltd,SJ15H
+581.022.0010,FW UV sterilizer,HFE,Hafnia Excellence,Samkun Century Co Ltd,"JSB-3, Ultraviolet Ray"
+702.310.0010,HFO purifier 1,HFE,Hafnia Excellence,Samgong Co Ltd,SJ60HH
+702.310.0020,HFO purifier 2,HFE,Hafnia Excellence,Samgong Co Ltd,SJ60HH
+712.310.0010,ME LO purifier 1,HFE,Hafnia Excellence,Samgong Co Ltd,SJ15H
+712.310.0020,ME LO purifier 2,HFE,Hafnia Excellence,Samgong Co Ltd,SJ15H
+712.320.0010,AE LO purifier,HFE,Hafnia Excellence,Samgong Co Ltd,SJ15H
+581.022.0010,FW UV sterilizer,HEV,Hafnia Executive,Samkun Century Co Ltd,"JSB-3, Ultraviolet Ray"
+702.310.0010,HFO purifier 1,HEV,Hafnia Executive,Samgong Co Ltd,SJ60HH
+702.310.0020,HFO purifier 2,HEV,Hafnia Executive,Samgong Co Ltd,SJ60HH
+712.310.0010,ME LO purifier 1,HEV,Hafnia Executive,Samgong Co Ltd,SJ15H
+712.310.0020,ME LO purifier 2,HEV,Hafnia Executive,Samgong Co Ltd,SJ15H
+712.320.0010,AE LO purifier,HEV,Hafnia Executive,Samgong Co Ltd,SJ15H
+581.022.0010,FW UV sterilizer,HPI,Hafnia Pride,Samkun Century Co Ltd,JSB-1
+702.310.0010,HFO purifier 1,HPI,Hafnia Pride,Samgong Co Ltd,SJ60HH
+702.310.0020,HFO purifier 2,HPI,Hafnia Pride,Samgong Co Ltd,SJ60HH
+712.310.0010,ME LO purifier,HPI,Hafnia Pride,Samgong Co Ltd,
+712.310.0020,GE LO purifier,HPI,Hafnia Pride,Samgong Co Ltd,
+581.022.0010,FW UV sterilizer,HPR,Hafnia Providence,Samkun Century Co Ltd,JSB-1
+702.310.0010,HFO purifier 1,HPR,Hafnia Providence,Samgong Co Ltd,SJ60HH
+702.310.0020,HFO purifier 2,HPR,Hafnia Providence,Samgong Co Ltd,SJ60HH
+712.310.0010,ME LO purifier 1,HPR,Hafnia Providence,Samgong Co Ltd,
+712.310.0020,ME LO purifier 2,HPR,Hafnia Providence,Samgong Co Ltd,
+581.022.0010,FW UV sterilizer,HPS,Hafnia Prestige,Samkun Century Co Ltd,JSB-1
+702.310.0010,HFO purifier 1,HPS,Hafnia Prestige,Samgong Co Ltd,SJ60HH
+702.310.0020,HFO purifier 2,HPS,Hafnia Prestige,Samgong Co Ltd,SJ60HH
+712.310.0010,ME LO purifier,HPS,Hafnia Prestige,Samgong Co Ltd,
+712.310.0020,GE LO purifier,HPS,Hafnia Prestige,Samgong Co Ltd,
+581.022.0010,FW UV sterilizer,HPC,Hafnia Precision,Samkun Century Co Ltd,JSB-1
+702.310.0010,HFO purifier 1,HPC,Hafnia Precision,Samgong Co Ltd,SJ60HH
+702.310.0020,HFO purifier 2,HPC,Hafnia Precision,Samgong Co Ltd,SJ60HH
+712.310.0010,ME LO purifier 1,HPC,Hafnia Precision,Samgong Co Ltd,
+712.310.0020,ME LO purifier 2,HPC,Hafnia Precision,Samgong Co Ltd,
+581.022.0010,FW UV sterilizer,HEX,Hafnia Express,Samkun Century Co Ltd,"JSB-3, Ultraviolet Ray"
+702.310.0010,HFO purifier 1,HEX,Hafnia Express,Samgong Co Ltd,SJ60HH
+702.310.0020,HFO purifier 2,HEX,Hafnia Express,Samgong Co Ltd,SJ60HH
+712.310.0010,ME LO purifier 1,HEX,Hafnia Express,Samgong Co Ltd,SJ15H
+712.310.0020,ME LO purifier 2,HEX,Hafnia Express,Samgong Co Ltd,SJ15H
+712.320.0010,AE LO purifier,HEX,Hafnia Express,Samgong Co Ltd,SJ15H
+581.022.0010,FW UV sterilizer,HEP,Hafnia Experience,Samkun Century Co Ltd,"JSB-3, Ultraviolet Ray"
+702.310.0010,HFO purifier 1,HEP,Hafnia Experience,Samgong Co Ltd,SJ60HH
+702.310.0020,HFO purifier 2,HEP,Hafnia Experience,Samgong Co Ltd,SJ60HH
+712.310.0010,ME LO purifier 1,HEP,Hafnia Experience,Samgong Co Ltd,SJ15H
+712.310.0020,ME LO purifier 2,HEP,Hafnia Experience,Samgong Co Ltd,SJ15H
+712.320.0010,AE LO purifier,HEP,Hafnia Experience,Samgong Co Ltd,SJ15H
+581.022.0010,FW UV sterilizer,HET,Hafnia Expedite,Samkun Century Co Ltd,"JSB-3, Ultraviolet Ray"
+702.310.0010,HFO purifier 1,HET,Hafnia Expedite,Samgong Co Ltd,SJ60HH
+702.310.0020,HFO purifier 2,HET,Hafnia Expedite,Samgong Co Ltd,SJ60HH
+712.310.0010,ME LO purifier 1,HET,Hafnia Expedite,Samgong Co Ltd,SJ15H
+712.310.0020,ME LO purifier 2,HET,Hafnia Expedite,Samgong Co Ltd,SJ15H
+712.320.0010,AE LO purifier,HET,Hafnia Expedite,Samgong Co Ltd,SJ15H
+581.022.0010,FW UV sterilizer,HEC,Hafnia Excel,Samkun Century Co Ltd,"JSB-3, Ultraviolet Ray"
+702.310.0010,HFO purifier 1,HEC,Hafnia Excel,Samgong Co Ltd,SJ60HH
+702.310.0020,HFO purifier 2,HEC,Hafnia Excel,Samgong Co Ltd,SJ60HH
+712.310.0010,ME LO purifier 1,HEC,Hafnia Excel,Samgong Co Ltd,SJ15H
+712.310.0020,ME LO purifier 2,HEC,Hafnia Excel,Samgong Co Ltd,SJ15H
+712.320.0010,AE LO purifier,HEC,Hafnia Excel,Samgong Co Ltd,SJ15H
+581.022.0010,FW UV sterilizer,HEE,Hafnia Exceed,Samkun Century Co Ltd,"JSB-3, Ultraviolet Ray"
+702.310.0010,HFO purifier 1,HEE,Hafnia Exceed,Samgong Co Ltd,SJ60HH
+702.310.0020,HFO purifier 2,HEE,Hafnia Exceed,Samgong Co Ltd,SJ60HH
+712.310.0010,ME LO purifier 1,HEE,Hafnia Exceed,Samgong Co Ltd,SJ15H
+712.310.0020,ME LO purifier 2,HEE,Hafnia Exceed,Samgong Co Ltd,SJ15H
+712.320.0010,AE LO purifier,HEE,Hafnia Exceed,Samgong Co Ltd,SJ15H
+581.022.0010,FW UV sterilizer,HLG,Hafnia Languedoc,"[MKR]JOWA KOREA CO., LTD",JOWA UV2 Sterilizer
+702.310.0010,HFO purifier 1,HLG,Hafnia Languedoc,Mitsubishi Kakoki Kaisha Ltd,SJ60HH
+702.310.0020,HFO purifier 2,HLG,Hafnia Languedoc,Mitsubishi Kakoki Kaisha Ltd,SJ60HH
+712.310.0010,LO purifier,HLG,Hafnia Languedoc,Mitsubishi Kakoki Kaisha Ltd,SJ25H
+581.022.0010,FW UV sterilizer,HLR,Hafnia Loire,"[MKR]JOWA KOREA CO., LTD",JOWA UV2 Sterilizer
+702.310.0010,HFO purifier 1,HLR,Hafnia Loire,Mitsubishi Kakoki Kaisha Ltd,SJ60HH
+702.310.0020,HFO purifier 2,HLR,Hafnia Loire,Mitsubishi Kakoki Kaisha Ltd,SJ60HH
+712.310.0010,LO purifier,HLR,Hafnia Loire,Mitsubishi Kakoki Kaisha Ltd,SJ25H
+581.022.0010,FW UV sterilizer,HLV,Hafnia Larvik,"[MKR]JOWA KOREA CO., LTD",JOWA UV2 Sterilizer
+702.310.0010,HFO purifier 1,HLV,Hafnia Larvik,Mitsubishi Kakoki Kaisha Ltd,SJ60HH
+702.310.0020,HFO purifier 2,HLV,Hafnia Larvik,Mitsubishi Kakoki Kaisha Ltd,SJ60HH
+712.310.0010,LO purifier,HLV,Hafnia Larvik,Mitsubishi Kakoki Kaisha Ltd,SJ25H
+702.310.0010,HFO purifier 1,HLL,Hafnia Lillesand,Mitsubishi Kakoki Kaisha Ltd,SJ60HH
+702.310.0020,HFO purifier 2,HLL,Hafnia Lillesand,Mitsubishi Kakoki Kaisha Ltd,SJ60HH
+712.310.0010,LO purifier,HLL,Hafnia Lillesand,Mitsubishi Kakoki Kaisha Ltd,SJ25H
+581.022.0010,FW UV sterilizer,HAT,Hafnia Atlantic,[MKR]JOWA AB,
+581.022.0020,FW silver ion sterilizer,HAT,Hafnia Atlantic,[MKR]JOWA AB,
+702.310.0010,HFO purifier 1,HAT,Hafnia Atlantic,Alfa Laval,S 926
+702.310.0020,HFO purifier 2,HAT,Hafnia Atlantic,Alfa Laval,S 926
+702.320.0010,DO purifier,HAT,Hafnia Atlantic,[MKR]ALFA LAVAL,P 605
+712.310.0010,ME LO purifier 1,HAT,Hafnia Atlantic,[MKR]ALFA LAVAL,P 615
+712.310.0020,ME LO purifier 2,HAT,Hafnia Atlantic,[MKR]ALFA LAVAL,P 615
+581.022.0010,FW UV sterilizer,HPA,Hafnia Pacific,[MKR]JOWA AB,
+581.022.0020,FW silver ion sterilizer,HPA,Hafnia Pacific,[MKR]JOWA AB,
+702.310.0010,HFO purifier 1,HPA,Hafnia Pacific,Alfa Laval,S 926
+702.310.0020,HFO purifier 2,HPA,Hafnia Pacific,Alfa Laval,S 926
+702.320.0010,DO purifier,HPA,Hafnia Pacific,[MKR]ALFA LAVAL,P 605
+712.310.0010,ME LO purifier 1,HPA,Hafnia Pacific,[MKR]ALFA LAVAL,P 615
+712.310.0020,ME LO purifier 2,HPA,Hafnia Pacific,[MKR]ALFA LAVAL,P 615

@@ -1,6 +1,6 @@
 # main_app.py
 
-import streamlit as st
+#import streamlit as st
 import sqlite3
 import pandas as pd
 import sql_db
@@ -15,12 +15,12 @@ def query_database(query):
 # Create or connect to SQLite database
 conn = sql_db.create_connection()
 
-# Schema Representation for finances table
+# Schema Representation for joblist table
 schemas = sql_db.get_schema_representation()
-print(schemas['finances'])
+print(schemas['joblist'])
 
 # Format the system message with the schema
-formatted_system_message = SYSTEM_MESSAGE.format(schema=schemas['finances'])
+formatted_system_message = SYSTEM_MESSAGE.format(schema=schemas['joblist'])
 
 # Generate the SQL query from the user message
 user_message = "Show me all expenses greater than 1000"
@@ -29,7 +29,7 @@ user_message = "Show me all expenses greater than 1000"
 response = get_completion_from_messages(formatted_system_message, user_message)
 json_response = json.loads(response)
 query = json_response['query']
-print(query)
+print('This is the query\n', query)
 
 # Run the SQL query
 sql_results = query_database(query)

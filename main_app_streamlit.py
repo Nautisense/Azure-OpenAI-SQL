@@ -1,4 +1,4 @@
-# main_app.py
+# main_app_streamlit.py
 
 import streamlit as st
 import sqlite3
@@ -15,18 +15,18 @@ def query_database(query, conn):
 # Create or connect to SQLite database
 conn = sql_db.create_connection()
 
-# Schema Representation for finances table
+# Schema Representation for joblist table
 schemas = sql_db.get_schema_representation()
 
-st.title("SQL Query Generator with GPT-4")
-st.write("Enter your message to generate SQL and view results.")
+st.title("Periodic Work Order Assitant")
+st.write("Enter your question to generate SQL query and view results.")
 
 # Input field for the user to type a message
-user_message = st.text_input("Enter your message:")
+user_message = st.text_input("Enter your question:")
 
 if user_message:
     # Format the system message with the schema
-    formatted_system_message = SYSTEM_MESSAGE.format(schema=schemas['finances'])
+    formatted_system_message = SYSTEM_MESSAGE.format(schema=schemas['joblist'])
 
     # Use GPT-4 to generate the SQL query
     response = get_completion_from_messages(formatted_system_message, user_message)
