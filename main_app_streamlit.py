@@ -18,7 +18,7 @@ conn = sql_db.create_connection()
 # Schema Representation for joblist table
 schemas = sql_db.get_schema_representation()
 
-st.title("Periodic Work Order Assitant")
+st.title("Periodic Work Order Assistant")
 st.write("Enter your question to generate SQL query and view results.")
 
 # Input field for the user to type a message
